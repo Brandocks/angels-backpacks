@@ -11,6 +11,4 @@ public class InIt implements ModInitializer {
 
 		System.out.println("Thank you for choosing Angel's Backpacks! Now initializing...");
 	}
-
-	public static void
 }
