@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Angel's Backpacks
 
-## Setup
+## Intro
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+My first Minecraft mod.
+This mod requires Fabric 1.16.4.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Goals: Adds Backpacks.
